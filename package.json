@@ -1,0 +1,21 @@
+{
+  "name": "js-hof-variant3",
+  "version": "1.0.0",
+  "description": "Практична робота 8: Функції вищого порядку. Варіант 3: Collection Utilities.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "higher-order-functions",
+    "map",
+    "filter",
+    "reduce",
+    "currying",
+    "composition"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "module"
+}
